@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/kiyotaka/IdeaProjects/scala-concurrent/src/main/scala/ForkJoinMergeSort.scala:5:32: value tolength is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m  val randomList = (for(i <- 1 tolength) yield Random.nextInt(100)).toList[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
